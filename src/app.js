@@ -1,5 +1,5 @@
 import express from "express";
-import routes from './routes/app.routes.js'
+import routes from "./routes/app.routes.js";
 import dotenv from "dotenv";
 
 dotenv.config();
